@@ -1,0 +1,2 @@
+# staticDAM
+DAM privacy
